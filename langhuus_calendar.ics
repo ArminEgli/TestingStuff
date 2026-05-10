@@ -51,7 +51,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260318
 DTEND;VALUE=DATE:20260515
-DTSTAMP:20260417T110802
+DTSTAMP:20260510T202827
 CREATED:20260224T143347Z
 LAST-MODIFIED:20260224T144455Z
 UID:10004988-1773792000-1778803199@langhuus.ch
@@ -64,426 +64,425 @@ ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2026/02/urf
 ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260417T100000
-DTEND;TZID=Europe/Zurich:20260417T120000
-DTSTAMP:20260417T110802
-CREATED:20260305T102208Z
-LAST-MODIFIED:20260330T110258Z
-UID:10004993-1776420000-1776427200@langhuus.ch
-SUMMARY:Farben verstehen & bewusst mischen - Malkurs für Erwachsene
-DESCRIPTION:In diesem vierteiligen Kurs widmen wir uns dem bewussten Mischen von Farben und der Entwicklung harmonischer Farbkompositionen. \nDie Teilnehmenden lernen\, Farbbeziehungen gezielt einzusetzen und eine eigene\, stimmige Farbpalette zu erarbeiten. \nSchritt für Schritt entsteht daraus ein persönliches Bild\, das die erarbeiteten Farbkonzepte sichtbar macht. \nDer Kurs richtet sich an Erwachsene aller Niveaus und findet in kleiner Ateliergruppe mit individueller Begleitung statt. \nOrt: Kulturhaus Langhuus\, Cham\nTeilnehmende: max. 8 Personen \nAnmeldung
-URL:https://langhuus.ch/blog/event/farben-verstehen-bewusst-mischen-malkurs-fuer-erwachsene/2026-04-17/
-LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-CATEGORIES:Kunst,Kurs,Malerei,Workshop
-ATTACH;FMTTYPE=image/webp:https://langhuus.ch/blog/wp-content/uploads/2026/03/farben_mischen_julia.webp
-ORGANIZER;CN="Julia Nissimoff Art":MAILTO:info@julia-nissimoff.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260417T190000
-DTEND;TZID=Europe/Zurich:20260417T230000
-DTSTAMP:20260417T110802
-CREATED:20231121T203336Z
-LAST-MODIFIED:20231121T203338Z
-UID:10002151-1776452400-1776466800@langhuus.ch
-SUMMARY:Friitig Bar
-DESCRIPTION:
-URL:https://langhuus.ch/blog/event/friitig-bar-3/2026-04-17/
-LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-CATEGORIES:Barbetrieb,Gesellschaft/Gemeinschaft
-ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2023/04/noun-beer-1821205-FF59B9.png
-ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260418T160000
-DTEND;TZID=Europe/Zurich:20260418T180000
-DTSTAMP:20260417T110802
-CREATED:20260326T085345Z
-LAST-MODIFIED:20260326T085345Z
-UID:10005076-1776528000-1776535200@langhuus.ch
-SUMMARY:Stropek's Kontext
-DESCRIPTION:politische Gesprächsrunde
-URL:https://langhuus.ch/blog/event/stropeks-kontext/
-LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-CATEGORIES:Gesellschaft/Gemeinschaft,Gespräch,Politik
-ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2026/03/lh_stropeks_kontext_april_2026_k.png
-ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260418T193000
-DTEND;TZID=Europe/Zurich:20260418T235500
-DTSTAMP:20260417T110802
-CREATED:20260204T140912Z
-LAST-MODIFIED:20260204T140912Z
-UID:10004972-1776540600-1776556500@langhuus.ch
-SUMMARY:TanzLang
-DESCRIPTION:mit DJ Orbit-X
-URL:https://langhuus.ch/blog/event/tanzlang-12/
-LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-CATEGORIES:Barbetrieb,Disco,Tanzen
-ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2022/09/noun-disco-76273-FF59B9.png
-ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260420T093000
-DTEND;TZID=Europe/Zurich:20260420T120000
-DTSTAMP:20260417T110802
-CREATED:20260306T144742Z
-LAST-MODIFIED:20260306T145114Z
-UID:10005005-1776677400-1776686400@langhuus.ch
-SUMMARY:Mama Lounge
-DESCRIPTION:Treffpunkt für Mamas mit ihren Kindern. Ein Ort\, an dem Begegnung\, Austausch und neue Energie entstehen dürfen.\n\nDas Motto dazu lautet:\n\nConnect\, Share\, Recharge
-URL:https://langhuus.ch/blog/event/mama-lounge/2026-04-20/
-LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-CATEGORIES:Gesellschaft/Gemeinschaft
-ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2026/03/mama_lounge_banner.png
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260420T140000
-DTEND;TZID=Europe/Zurich:20260420T170000
-DTSTAMP:20260417T110802
-CREATED:20250811T184359Z
-LAST-MODIFIED:20260327T162537Z
-UID:10004753-1776693600-1776704400@langhuus.ch
-SUMMARY:zämeCHOM – Ping-Pong
-DESCRIPTION:
-URL:https://langhuus.ch/blog/event/zaemechom-ping-pong-3/2026-04-20/
-LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-CATEGORIES:Bewegung,Fitness
-ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2022/10/noun-pingpong-2411195-FF59B9.png
-ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260421T093000
-DTEND;TZID=Europe/Zurich:20260421T103000
-DTSTAMP:20260417T110802
-CREATED:20250612T132717Z
-LAST-MODIFIED:20250612T132717Z
-UID:10004275-1776763800-1776767400@langhuus.ch
-SUMMARY:Bewegung mit Kelly
-DESCRIPTION:GET FIT THE FUN WAY \nDU BIST MAMA UIND BEWEGST DICH GERNE? \nDANN BIST DU HIER GENAU RICHTIG! \nWAS DICH ERWARTET: \n\nGanzkörper-Workout für jedes Fitnesslevel\nMit oder ohne Kind – beides ist möglich\nAustausch & Motivation unter Mamas\nKein Leistungsdruck\, nur Spass an Bewegung
-URL:https://langhuus.ch/blog/event/bewegung-mit-kelly-2/2026-04-21/
-LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-CATEGORIES:Workshop
-ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2025/03/noun-yoga-7639493-FF59B9.png
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260422T190000
-DTEND;TZID=Europe/Zurich:20260422T210000
-DTSTAMP:20260417T110802
-CREATED:20231006T114756Z
-LAST-MODIFIED:20240301T084525Z
-UID:10001810-1776884400-1776891600@langhuus.ch
-SUMMARY:PingPong
-DESCRIPTION:Jeden 2. und 4. Mittwoch im Monat flitzt der weisse Ball über den PingPong Tisch. Sei dabei.
-URL:https://langhuus.ch/blog/event/pinpong-2/2026-04-22/
-LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-CATEGORIES:Spiele,Sport
-ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2022/10/noun-pingpong-2411195-FF59B9.png
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260422T190000
-DTEND;TZID=Europe/Zurich:20260422T210000
-DTSTAMP:20260417T110802
-CREATED:20251222T154456Z
-LAST-MODIFIED:20251222T154502Z
-UID:10004813-1776884400-1776891600@langhuus.ch
-SUMMARY:SHAYA WHITE CIRCLE
-DESCRIPTION:Erlebe einen Abend voller Magie und Einkehr im Mother Drum Circle. \nMit einer sanften Räucherung beginnt der schöne Abend.\nTauche ein in die Welt der heilenden Klänge\, finde innere Ruhe.\nGemeinsam spielen wir auf der Mother Drum und verbinden uns mit der Urkraft der Klang-Schwingungen. \nDen Schluss runden wir mit einem sanften und berauschenden Klangbad ab. \nSpüre den Unterschied danach in deinem Innern. \nTreffe tolle Menschen und mache neue Erfahrungen 🦋🍀 \nvon 1900-2100 Uhr im\nLanghuus Kulturfabrik\nFabrikstrasse 9 in Cham bei Zug \nSEIN UM ZU WERDEN \nShaya White\nhttps://shayawhite.ch \nIch freue mich auf Dich \nWir beginnen um 1900 Uhr 🙏🏻 \nMitnehmen:\nMatte zum Liegen\nDecke evt Kissen\nwenn du magst; wichtiger Gegenstand für Dich den Du in die Mitte legen darfst \nBitte um Anmeldung unter 076 367 33 23\nPlatzzahl beschränkt.\nKollekte
-URL:https://langhuus.ch/blog/event/shaya-white-circle-8-3/
-LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-CATEGORIES:Gesellschaft/Gemeinschaft,Musik,Workshop
-ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2024/05/mother_drum.png
-ORGANIZER;CN="Shaya White":MAILTO:info@shayawhite.ch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260424T100000
-DTEND;TZID=Europe/Zurich:20260424T120000
-DTSTAMP:20260417T110802
-CREATED:20260305T102208Z
-LAST-MODIFIED:20260330T110258Z
-UID:10004994-1777024800-1777032000@langhuus.ch
-SUMMARY:Farben verstehen & bewusst mischen - Malkurs für Erwachsene
-DESCRIPTION:In diesem vierteiligen Kurs widmen wir uns dem bewussten Mischen von Farben und der Entwicklung harmonischer Farbkompositionen. \nDie Teilnehmenden lernen\, Farbbeziehungen gezielt einzusetzen und eine eigene\, stimmige Farbpalette zu erarbeiten. \nSchritt für Schritt entsteht daraus ein persönliches Bild\, das die erarbeiteten Farbkonzepte sichtbar macht. \nDer Kurs richtet sich an Erwachsene aller Niveaus und findet in kleiner Ateliergruppe mit individueller Begleitung statt. \nOrt: Kulturhaus Langhuus\, Cham\nTeilnehmende: max. 8 Personen \nAnmeldung
-URL:https://langhuus.ch/blog/event/farben-verstehen-bewusst-mischen-malkurs-fuer-erwachsene/2026-04-24/
-LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-CATEGORIES:Kunst,Kurs,Malerei,Workshop
-ATTACH;FMTTYPE=image/webp:https://langhuus.ch/blog/wp-content/uploads/2026/03/farben_mischen_julia.webp
-ORGANIZER;CN="Julia Nissimoff Art":MAILTO:info@julia-nissimoff.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260424T180000
-DTEND;TZID=Europe/Zurich:20260424T230000
-DTSTAMP:20260417T110802
-CREATED:20260204T141301Z
-LAST-MODIFIED:20260324T141700Z
-UID:10002152-1777053600-1777071600@langhuus.ch
-SUMMARY:Tavolata Italiana
-DESCRIPTION:Erlebe den Charme und den Genuss italienischer Spezialitäten auf einem Tisch. \nBei einer Tavolata sitzen die Gäste an einer langen Tafel und jeder bedient sich selbst – ganz praktisch und unkompliziert. \nWir verwöhnen mit köstlichen Spezialitäten aus der italienischen Küche und du kannst es einfach nur geniessen\, ein gutes Glas Wein dazu trinken und spannende Gespräche führen. \nAuch für die musikalische Unterhaltung ist gesorgt – ab 19:00 Uhr „Video italiano“ mit DJ Dr. Beat. \nWähle selbst: \n– Ich habe kurz Zeit Apéro 1 Glas… mit Häppchen (ohne Reservation) CHF 14.- p.P.\n– Ich habe mehr Zeit Tavolata inkl. Apéro (mit Reservation) CHF 43.- p.P. \nEine schöne Auswahl italienischer Weine steht bereit – es kann ganz flexibel glas- oder flaschenweise gewählt werden. \nDie Weine werden separat berechnet. \nReserviere für dich und deine Begleitung bis spätestens Montag\, 20. April 2026 mit einer kurzen Message unter 079 946 49 17 (Platzzahl begrenzt). \nWir freuen uns auf einen gelungenen Abend und ein bisschen dolce vita ! \nBrigitte\, Markus und Video DJ Dr. Beat \nFlyer TAVOLATA – Langhuus Cham im April2026
-URL:https://langhuus.ch/blog/event/friitig-bar-3-10/
-LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-CATEGORIES:Barbetrieb,Gesellschaft/Gemeinschaft,Kulinarik
-ATTACH;FMTTYPE=image/jpeg:https://langhuus.ch/blog/wp-content/uploads/2026/02/IMG_2981.jpeg
-ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260425T100000
-DTEND;TZID=Europe/Zurich:20260425T235500
-DTSTAMP:20260417T110802
-CREATED:20260204T141842Z
-LAST-MODIFIED:20260204T141842Z
-UID:10004976-1777111200-1777161300@langhuus.ch
-SUMMARY:*** Strehle
-DESCRIPTION:
-URL:https://langhuus.ch/blog/event/strehle/
-LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-CATEGORIES:privat
-ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260428T093000
-DTEND;TZID=Europe/Zurich:20260428T103000
-DTSTAMP:20260417T110802
-CREATED:20250612T132717Z
-LAST-MODIFIED:20250612T132717Z
-UID:10004276-1777368600-1777372200@langhuus.ch
-SUMMARY:Bewegung mit Kelly
-DESCRIPTION:GET FIT THE FUN WAY \nDU BIST MAMA UIND BEWEGST DICH GERNE? \nDANN BIST DU HIER GENAU RICHTIG! \nWAS DICH ERWARTET: \n\nGanzkörper-Workout für jedes Fitnesslevel\nMit oder ohne Kind – beides ist möglich\nAustausch & Motivation unter Mamas\nKein Leistungsdruck\, nur Spass an Bewegung
-URL:https://langhuus.ch/blog/event/bewegung-mit-kelly-2/2026-04-28/
-LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-CATEGORIES:Workshop
-ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2025/03/noun-yoga-7639493-FF59B9.png
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260428T180000
-DTEND;TZID=Europe/Zurich:20260428T220000
-DTSTAMP:20260417T110802
-CREATED:20260204T142133Z
-LAST-MODIFIED:20260204T142133Z
-UID:10004977-1777399200-1777413600@langhuus.ch
-SUMMARY:*** GV Röhliberg Süd
-DESCRIPTION:
-URL:https://langhuus.ch/blog/event/gv-roehliberg-sued/
-LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-CATEGORIES:privat
-ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260429T093000
-DTEND;TZID=Europe/Zurich:20260429T120000
-DTSTAMP:20260417T110802
-CREATED:20260306T144742Z
-LAST-MODIFIED:20260306T145114Z
-UID:10005006-1777455000-1777464000@langhuus.ch
-SUMMARY:Mama Lounge
-DESCRIPTION:Treffpunkt für Mamas mit ihren Kindern. Ein Ort\, an dem Begegnung\, Austausch und neue Energie entstehen dürfen.\n\nDas Motto dazu lautet:\n\nConnect\, Share\, Recharge
-URL:https://langhuus.ch/blog/event/mama-lounge/2026-04-29/
-LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-CATEGORIES:Gesellschaft/Gemeinschaft
-ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2026/03/mama_lounge_banner.png
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260430T193000
-DTEND;TZID=Europe/Zurich:20260430T213000
-DTSTAMP:20260417T110802
-CREATED:20251009T132629Z
-LAST-MODIFIED:20260117T135554Z
-UID:10004696-1777577400-1777584600@langhuus.ch
-SUMMARY:Herzenslieder & Mantras
-DESCRIPTION:Singen berührt\, heilt\, nährt und verbindet! \nLass dich von eingängigen Herzenslieder\, Mantren und der Stille dazwischen berühren und tauche\nmit uns ins gemeinsame Singen im Langhuus ein. \nIn einer offenen\, herzlichen und achtsamen Atmosphäre verbinden wir Stimmen\, Jahreskreisthemen und Kulturen zu einem herzöffnenden Klangraum\, nähren den Frieden in und über uns hinaus und vertiefen unsere Verbundenheit mit Allem. Ganz ohne Vorkenntnisse – Du bist willkommen \nWeitere Infos: \nJasmina Meier & Gunnar Hartmann\ninfo@herzensgesang.ch\nherzensgesang.ch \n\n\nKollekte
-URL:https://langhuus.ch/blog/event/herzenslieder-und-mantras-singen-2026/2026-04-30/
-LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-CATEGORIES:Chor,Gesang,Workshop
-ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2025/10/noun-swirly-heart-2762542-FF59B9.png
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260501T100000
-DTEND;TZID=Europe/Zurich:20260501T120000
-DTSTAMP:20260417T110802
-CREATED:20260305T102208Z
-LAST-MODIFIED:20260330T110258Z
-UID:10005072-1777629600-1777636800@langhuus.ch
-SUMMARY:Farben verstehen & bewusst mischen - Malkurs für Erwachsene
-DESCRIPTION:In diesem vierteiligen Kurs widmen wir uns dem bewussten Mischen von Farben und der Entwicklung harmonischer Farbkompositionen. \nDie Teilnehmenden lernen\, Farbbeziehungen gezielt einzusetzen und eine eigene\, stimmige Farbpalette zu erarbeiten. \nSchritt für Schritt entsteht daraus ein persönliches Bild\, das die erarbeiteten Farbkonzepte sichtbar macht. \nDer Kurs richtet sich an Erwachsene aller Niveaus und findet in kleiner Ateliergruppe mit individueller Begleitung statt. \nOrt: Kulturhaus Langhuus\, Cham\nTeilnehmende: max. 8 Personen \nAnmeldung
-URL:https://langhuus.ch/blog/event/farben-verstehen-bewusst-mischen-malkurs-fuer-erwachsene/2026-05-01/
-LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-CATEGORIES:Kunst,Kurs,Malerei,Workshop
-ATTACH;FMTTYPE=image/webp:https://langhuus.ch/blog/wp-content/uploads/2026/03/farben_mischen_julia.webp
-ORGANIZER;CN="Julia Nissimoff Art":MAILTO:info@julia-nissimoff.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260501T190000
-DTEND;TZID=Europe/Zurich:20260501T230000
-DTSTAMP:20260417T110802
-CREATED:20231121T203336Z
-LAST-MODIFIED:20231121T203338Z
-UID:10002153-1777662000-1777676400@langhuus.ch
-SUMMARY:Friitig Bar
-DESCRIPTION:
-URL:https://langhuus.ch/blog/event/friitig-bar-3/2026-05-01/
-LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-CATEGORIES:Barbetrieb,Gesellschaft/Gemeinschaft
-ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2023/04/noun-beer-1821205-FF59B9.png
-ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260502T100000
-DTEND;TZID=Europe/Zurich:20260502T130000
-DTSTAMP:20260417T110802
-CREATED:20260305T105749Z
-LAST-MODIFIED:20260305T105749Z
-UID:10004996-1777716000-1777726800@langhuus.ch
-SUMMARY:*** Julia
-DESCRIPTION:
-URL:https://langhuus.ch/blog/event/julia/
-LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-CATEGORIES:privat
-ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260503T100000
-DTEND;TZID=Europe/Zurich:20260503T150000
-DTSTAMP:20260417T110802
-CREATED:20260313T140831Z
-LAST-MODIFIED:20260313T141149Z
-UID:10005070-1777802400-1777820400@langhuus.ch
-SUMMARY:Flohmarkt auf dem Papieriplatz
-DESCRIPTION:Hallo Flohmarktfahrer:in \nAm Sonntag 3.5.2026 findet auf dem Papieriplatz der nächste Flohmarkt statt. \nHier das Wichtigste: \n\nAufstellen ab 9 Uhr\nFlohmarkt 10-15 Uhr\nAbräumen bis 16 Uhr\nEin Platz ist ca. 9m2 gross\nGebühr pro Platz CHF 20.- (wird vor Ort einkassiert)\nTische bitte selbst mitbringen\nDie Langhuus Bar hat offen und es wird ein einfaches Mittagessen angeboten\n\nWir freuen uns auf einen spannenden Tag mit euch. \nMit lieben Grüssen euer Langhuus-Flohmarktteam.\nMonika\, Jeannette und Xaver \nAnmeldung unter langhuus.ch/flohmarkt
-URL:https://langhuus.ch/blog/event/flohmarkt-auf-dem-papieriplatz-5/
-LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-CATEGORIES:Gesellschaft/Gemeinschaft,Märkte,Mittagessen
-ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2022/05/noun-monster-puppet-1925457-F559BA.png
-ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260503T110000
-DTEND;TZID=Europe/Zurich:20260503T130000
-DTSTAMP:20260417T110802
-CREATED:20251223T092819Z
-LAST-MODIFIED:20251223T092820Z
-UID:10000764-1777806000-1777813200@langhuus.ch
-SUMMARY:Philo Runde
-DESCRIPTION:Komm vorbei für einen philosophischen Austausch. Das Thema bestimmen wir vor Ort oder auch via vorherige Abstimmung in der TELEGRAM Gruppe „Langhuus Philo Runde„
-URL:https://langhuus.ch/blog/event/philo-runde-april-2023-3-6/
-LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-CATEGORIES:Gesellschaft/Gemeinschaft,Philosophie/Gespräche
-ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2022/06/noun-thinker-783600-FF59B9.png
-ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260504T140000
-DTEND;TZID=Europe/Zurich:20260504T170000
-DTSTAMP:20260417T110802
-CREATED:20250811T184359Z
-LAST-MODIFIED:20260327T162537Z
-UID:10004754-1777903200-1777914000@langhuus.ch
-SUMMARY:zämeCHOM – Ping-Pong
-DESCRIPTION:
-URL:https://langhuus.ch/blog/event/zaemechom-ping-pong-3/2026-05-04/
-LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-CATEGORIES:Bewegung,Fitness
-ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2022/10/noun-pingpong-2411195-FF59B9.png
-ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260505T093000
-DTEND;TZID=Europe/Zurich:20260505T103000
-DTSTAMP:20260417T110802
-CREATED:20250612T132717Z
-LAST-MODIFIED:20250612T132717Z
-UID:10004277-1777973400-1777977000@langhuus.ch
-SUMMARY:Bewegung mit Kelly
-DESCRIPTION:GET FIT THE FUN WAY \nDU BIST MAMA UIND BEWEGST DICH GERNE? \nDANN BIST DU HIER GENAU RICHTIG! \nWAS DICH ERWARTET: \n\nGanzkörper-Workout für jedes Fitnesslevel\nMit oder ohne Kind – beides ist möglich\nAustausch & Motivation unter Mamas\nKein Leistungsdruck\, nur Spass an Bewegung
-URL:https://langhuus.ch/blog/event/bewegung-mit-kelly-2/2026-05-05/
-LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-CATEGORIES:Workshop
-ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2025/03/noun-yoga-7639493-FF59B9.png
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260505T140000
-DTEND;TZID=Europe/Zurich:20260505T160000
-DTSTAMP:20260417T110802
-CREATED:20250929T031629Z
-LAST-MODIFIED:20251124T140516Z
-UID:10004743-1777989600-1777996800@langhuus.ch
-SUMMARY:zämeCHOM
-DESCRIPTION:Wir sind eine Gruppe von interessierten Leuten ab rund 60 Jahren aus Cham (Chom) und Umgebung.\nWir laden DICH dazu ein\, mit uns zusammen zu kommen\, um sich auszutauschen und Neues zu erleben.\nDie fixen Treffen finden monatlich im Langhuus auf dem Papieriareal in Cham statt.\nWeitere Anlässe werden individuell durch die einzelnen Mitglieder geplant und organisiert. \nUnsere Motivation\n Miteinander macht es mehr Spass\n Gemeinsam etwas unternehmen und erleben\n Spontanität und Kreativität sind willkommen \nUnser Ziel\n Freizeit mit Gleichgesinnten verbringen\n Gemeinsame Ausflüge gestalten\n Kulturelle Anlässe organisieren und besuchen\n Spielen und Spass haben bei Karten- und Brettspielen\, Pétanque\, Tischfussball\, Padel usw. \nBist DU interessiert\, melde dich doch bei zaemechom@gmail.com für unsere WhatsApp Gruppe an\, oder schau einfach mal\nrein bei einem fixen Treff im Langhuus in Cham.
-URL:https://langhuus.ch/blog/event/zaemechom-2/2026-05-05/
-LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-CATEGORIES:Gesellschaft/Gemeinschaft,zämeCHOM
-ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2024/05/noun-petanque-377122-FF59B9.png
-ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260505T235100
-DTEND;TZID=Europe/Zurich:20260505T235500
-DTSTAMP:20260417T110802
-CREATED:20260401T155711Z
-LAST-MODIFIED:20260401T155711Z
-UID:10005141-1778083200-1778090400@langhuus.ch
-SUMMARY:K'Werk Atelier
-DESCRIPTION:Entfalte deine Kreativität\nMagst du malen? Hast du Lust\, deine Ideen in Bilder umzuwandeln und neue Techniken zu lernen? Dann ist das Kunstatelier Cham genau richtig für dich! Hier lernst du verschiedene Techniken kennen und experimentierst mit Materialien wie Tusche\, Kohle und Acrylfarbe. Wir untersuchen unsere Umgebung genau und und skizzieren sie direkt vor den Objekten. Wir lernen\, wie man räumliche Tiefe und Perspektiven malt. Wir lernen\, wie man Formen und Rundungen malt. Wir lernen\, wie man Farben und Licht benutzt. Mit professioneller Hilfe findest du deinen eigenen Stil. Entdecke neue kreative Möglichkeiten und lass deiner Fantasie freien Lauf! \nAlter: 6-9 Jhar\nZeit: Mittwoch\, 16-18 Uhr\nKursdauer: 6.Mia-10.Juni 2026\, 6 x 2 Std.\nKosten: CHF 190.- Inkl. Material (Zuschlag 30% für ausserkantonale Kursteilnehmende\nLeitung: Luz Maria Molinari\, Künstlerin und Interior Designerin\nWerkschau: Samstag\, 20 Juni 2026 \nJetzt anmelden
-URL:https://langhuus.ch/blog/event/kwerk-atelier-2/2026-05-06/
-LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-CATEGORIES:Gestalten,Kinder,Kunst,Kurs,Workshop
-ATTACH;FMTTYPE=image/jpeg:https://langhuus.ch/blog/wp-content/uploads/2026/04/kwerk_atelier.jpeg
-ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260506T190000
-DTEND;TZID=Europe/Zurich:20260506T220000
-DTSTAMP:20260417T110802
-CREATED:20251009T130029Z
-LAST-MODIFIED:20251009T130348Z
-UID:10004691-1778094000-1778104800@langhuus.ch
-SUMMARY:Offenes Singen
-DESCRIPTION:Wir singen einfache\, eingängige jedoch (hoffentlich) herzerfreuende Lieder. Auch wenn du den Eindruck hast\, nicht so toll singen zu können\, bist du sehr herzlich eingeladen. Es geht um das Singerlebnis an sich\, nicht um stimmakrobatische Höchstleistungen oder Kunststücke. Obwohl diese natürlich gerne auch sein dürfen. \nDie Lieder stammen mehrheitlich aus dem Fundus von Stimmvolk.ch. Es gibt auch Taizé- sowie weitere Lieder aus allen Herren Ländern. \nLydia Ehinger und Michael Semlitsch helfen uns die Stimmen\, Töne sowie den Rhythmus zu finden und begleiten uns mit ihren Instrumenten. Das Singen eignet sich ganz wohltuend wunderbar für Erwachsene jeden Alters. \nEine Topfkollekte wird bereitstehen.
-URL:https://langhuus.ch/blog/event/offenes-singen-2026/2026-05-06/
-LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-CATEGORIES:Chor,Gesang,Workshop
-ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2023/01/noun-song-2721419-FF59B9.png
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260507T090000
-DTEND;TZID=Europe/Zurich:20260507T100000
-DTSTAMP:20260417T110802
-CREATED:20260113T105244Z
-LAST-MODIFIED:20260203T135557Z
-UID:10004953-1778144400-1778148000@langhuus.ch
-SUMMARY:Gitarrenkurs Stufe 2
-DESCRIPTION:Wir erweitern unsere Kenntnisse über Akkorde zum Begleiten von Liedern und zum Singen\nWir erweitern die Begleittechniken mit der rechten Hand\nWir erweitern die Techniken für kleine Improvisationen\n\nVorkenntnisse: mindestens die Grundakkorde der ersten Lage kennen\, (mindestens 7 Akkorden)  und ein Lied spielen können. \nKosten: CHF 350.- \nLeitung Violeta Ramos \nInformationen und Anmeldungeninfo@violetaramos.chwww.violetaramos.ch
-URL:https://langhuus.ch/blog/event/gitarrenkurs/2026-05-07/
+DTSTART;TZID=Europe/Zurich:20260511T193500
+DTEND;TZID=Europe/Zurich:20260511T203500
+DTSTAMP:20260510T202827
+CREATED:20260121T124827Z
+LAST-MODIFIED:20260121T124827Z
+UID:10004954-1778528100-1778531700@langhuus.ch
+SUMMARY:Gitarrenkurs Stufe 1
+DESCRIPTION:Grundakkorde zum Begleiten von Liedern und zum Singen.\nErste Techniken und Theorie zum Erlernen des Improvisierens.\n\nVorkenntnisse: Ich kenne mind.5 Akkorden.  \nKosten: CHF 140.- \n\n\nLeitung Violeta Ramos \nInformationen und Anmeldungeninfo@violetaramos.chwww.violetaramos.ch
+URL:https://langhuus.ch/blog/event/gitarrenkurs-4/
 LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
 CATEGORIES:Kurs,Musik
 ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2022/07/noun-guitar-4972404-FF59BA.png
 ORGANIZER;CN="Violeta Ramos":MAILTO:info@violetaramos.ch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260507T173000
-DTEND;TZID=Europe/Zurich:20260507T210000
-DTSTAMP:20260417T110802
-CREATED:20260126T132000Z
-LAST-MODIFIED:20260128T110411Z
-UID:10004964-1778175000-1778187600@langhuus.ch
-SUMMARY:UNSERE BUNTE ARTENVIELFALT IN CHAM
-DESCRIPTION:In unserer Gemeinde leben hunderte von Pflanzen- und Tierarten. Oft unbemerkt & heimlich\, manchmal bunt & verführerisch. Und die Vielfalt beginnt bereits vor unserer Haustür\, am Strassenrand\, zwischen Asphaltritzen oder auf kleinen Sandflächen. \nJede Pflanze\, jedes Insekt\, das auf den Blüten landet\, ist Teil eines wunderschönen und faszinierenden Ökosystems mit speziellen Talenten und Aufgaben. \nDer Biologe Stefan Rother und die Umweltpädagogin Isabelle Bögli führen uns durch diese kleine Wunderwelt in unserer Nachbarschaft. \nDie erste Exkursion starten wir im Langhuus\, um die „kleinen Rebellen am Strassenrand“ zu erkunden. Die Namen einiger Arten werden wir gemeinsam mit Kreide anzeichnen\, damit andere später noch von unseren Erkundungstouren profitieren. Unser Weg führt diesmal vom Langhuus bis zur Reformierten Kirche Cham wo um 19.30 die Live Reportage „Hummel mit Heizung“ stattfindet. Dort empfängt uns Cham Delta ab 19.00 mit einem Apero. \nBeide Veranstaltungen können zusammen oder unabhängig voneinanderbesucht werden. \n17:30 „Kleine Rebellen“-Exkursion\, Langhuus Cham19:00 Apéro\, Reformierten Kirche Cham19:30 „Hummel mit Heizung“Live-Reportage\, Reformierten Kirche Cham \nFür beide Veranstaltungen ist die Teilnahme kostenfrei. \n			\n			\n				\n				\n				\n				\n			\n				\n				\n				\n				\n				\n				\n				\n				\n				\n				\n				\n				\n					Dr. Stefan Rother\, Diplombiologe\n					\n					Stefan wohnt in Cham und ist seit über 35 Jahren für den Schutz der tropischen Regenwälder aktiv (www.tropica-verde.de). Ausserdem engagiert er sich für den lokalen Naturschutz und den Erhalt der Artenvielfalt in der Schweiz \n					\n				\n			\n			\n				\n				\n				\n				\n				\n				\n				\n				\n				\n				\n				\n					Isabelle Bögli\n					\n					Isabelle wohnt in Mühlau und gibt von Schulen bis in den Erwachsenenbereich praxisnahenNaturunterricht inunseren Wäldern und Landschaften. Sie ist ausserdem seit vielen Jahren im Fledermausschutz unserer Gemeinde aktiv
-URL:https://langhuus.ch/blog/event/unsere-bunte-artenvielfalt-in-cham/
+DTSTART;TZID=Europe/Zurich:20260512T093000
+DTEND;TZID=Europe/Zurich:20260512T103000
+DTSTAMP:20260510T202827
+CREATED:20250612T132717Z
+LAST-MODIFIED:20250612T132717Z
+UID:10004278-1778578200-1778581800@langhuus.ch
+SUMMARY:Bewegung mit Kelly
+DESCRIPTION:GET FIT THE FUN WAY \nDU BIST MAMA UIND BEWEGST DICH GERNE? \nDANN BIST DU HIER GENAU RICHTIG! \nWAS DICH ERWARTET: \n\nGanzkörper-Workout für jedes Fitnesslevel\nMit oder ohne Kind – beides ist möglich\nAustausch & Motivation unter Mamas\nKein Leistungsdruck\, nur Spass an Bewegung
+URL:https://langhuus.ch/blog/event/bewegung-mit-kelly-2/2026-05-12/
 LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2026/01/lh_lebendige_vielfalt_2026-scaled.png
+CATEGORIES:Workshop
+ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2025/03/noun-yoga-7639493-FF59B9.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20260512T170000
+DTEND;TZID=Europe/Zurich:20260512T235500
+DTSTAMP:20260510T202827
+CREATED:20260421T133838Z
+LAST-MODIFIED:20260421T133838Z
+UID:10005153-1778605200-1778630100@langhuus.ch
+SUMMARY:*** GV KKC
+DESCRIPTION:
+URL:https://langhuus.ch/blog/event/gv-kkc/
+LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
+CATEGORIES:privat
 ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20260507T200000
-DTEND;TZID=Europe/Zurich:20260507T220000
-DTSTAMP:20260417T110802
-CREATED:20230504T073323Z
-LAST-MODIFIED:20230813T084229Z
-UID:10001306-1778184000-1778191200@langhuus.ch
-SUMMARY:Jam Session
-DESCRIPTION:Schlagzeug und PA stehen bereit.\nHast du deine Gitarre schon gestimmt?
-URL:https://langhuus.ch/blog/event/jam-session-6/2026-05-07/
+DTSTART;TZID=Europe/Zurich:20260513T093000
+DTEND;TZID=Europe/Zurich:20260513T120000
+DTSTAMP:20260510T202827
+CREATED:20260306T144742Z
+LAST-MODIFIED:20260422T132453Z
+UID:10005008-1778664600-1778673600@langhuus.ch
+SUMMARY:Mama Lounge
+DESCRIPTION:Treffpunkt für Mamas mit ihren Kindern. Ein Ort\, an dem Begegnung\, Austausch und neue Energie entstehen dürfen.\n\nDas Motto dazu lautet:\n\nConnect\, Share\, Recharge
+URL:https://langhuus.ch/blog/event/mama-lounge/2026-05-13/
 LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
-CATEGORIES:Gesang,Konzert/Live-Musik,Workshop
-ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2022/05/noun-sound-4850649-F559BA.png
+CATEGORIES:Gesellschaft/Gemeinschaft
+ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2026/03/mama_lounge_banner.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20260513T160000
+DTEND;TZID=Europe/Zurich:20260513T180000
+DTSTAMP:20260510T202827
+CREATED:20260401T155711Z
+LAST-MODIFIED:20260401T155711Z
+UID:10005142-1778688000-1778695200@langhuus.ch
+SUMMARY:K'Werk Atelier
+DESCRIPTION:Entfalte deine Kreativität\nMagst du malen? Hast du Lust\, deine Ideen in Bilder umzuwandeln und neue Techniken zu lernen? Dann ist das Kunstatelier Cham genau richtig für dich! Hier lernst du verschiedene Techniken kennen und experimentierst mit Materialien wie Tusche\, Kohle und Acrylfarbe. Wir untersuchen unsere Umgebung genau und und skizzieren sie direkt vor den Objekten. Wir lernen\, wie man räumliche Tiefe und Perspektiven malt. Wir lernen\, wie man Formen und Rundungen malt. Wir lernen\, wie man Farben und Licht benutzt. Mit professioneller Hilfe findest du deinen eigenen Stil. Entdecke neue kreative Möglichkeiten und lass deiner Fantasie freien Lauf! \nAlter: 6-9 Jhar\nZeit: Mittwoch\, 16-18 Uhr\nKursdauer: 6.Mia-10.Juni 2026\, 6 x 2 Std.\nKosten: CHF 190.- Inkl. Material (Zuschlag 30% für ausserkantonale Kursteilnehmende\nLeitung: Luz Maria Molinari\, Künstlerin und Interior Designerin\nWerkschau: Samstag\, 20 Juni 2026 \nJetzt anmelden
+URL:https://langhuus.ch/blog/event/kwerk-atelier-2/2026-05-13/
+LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
+CATEGORIES:Gestalten,Kinder,Kunst,Kurs,Workshop
+ATTACH;FMTTYPE=image/jpeg:https://langhuus.ch/blog/wp-content/uploads/2026/04/kwerk_atelier.jpeg
 ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20260513T190000
+DTEND;TZID=Europe/Zurich:20260513T210000
+DTSTAMP:20260510T202827
+CREATED:20250820T123057Z
+LAST-MODIFIED:20260225T200318Z
+UID:10004990-1778698800-1778706000@langhuus.ch
+SUMMARY:Meditative Painting
+DESCRIPTION:Raus aus dem Kopf – zurück zu dir.\nNach einem langen Arbeitstag einfach ankommen\, durchatmen und loslassen. \nKein Talent nötig – nur Neugier\nAbschalten vom Alltag & Stress hinter sich lassen\nEin Abend\, der nur für dich ist\nUnd du nimmst dein eigenes Kunstwerk mit nach Hause \n\nDaten\nCHF 70 pro Abend (inkl. Material) \nAnmelden: hands-on-art.com/kreativzeit\nFragen? Kontaktiere Laura\nInfo@hands-on-art.com\nTel: 0774525772
+URL:https://langhuus.ch/blog/event/meditative-painting/2026-05-13/
+LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
+CATEGORIES:Gestalten,Malerei,Workshop
+ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2025/08/meditative_painting.png
+ORGANIZER;CN="Hands On Art":MAILTO:info@hands-on-art.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20260514T190000
+DTEND;TZID=Europe/Zurich:20260514T210000
+DTSTAMP:20260510T202827
+CREATED:20260507T114251Z
+LAST-MODIFIED:20260507T114254Z
+UID:10004765-1778785200-1778792400@langhuus.ch
+SUMMARY:SHAYA WHITE CIRCLE
+DESCRIPTION:Erlebe einen Abend voller Magie und Einkehr im Mother Drum Circle. \nMit einer sanften Räucherung beginnt der schöne Abend.\nTauche ein in die Welt der heilenden Klänge\, finde innere Ruhe.\nGemeinsam spielen wir auf der Mother Drum und verbinden uns mit der Urkraft der Klang-Schwingungen. \nDen Schluss runden wir mit einem sanften und berauschenden Klangbad ab. \nSpüre den Unterschied danach in deinem Innern. \nTreffe tolle Menschen und mache neue Erfahrungen 🦋🍀 \nvon 1900-2100 Uhr im\nLanghuus Kulturfabrik\nFabrikstrasse 9 in Cham bei Zug \nSEIN UM ZU WERDEN \nShaya White\nhttps://shayawhite.ch \nIch freue mich auf Dich \nWir beginnen um 1900 Uhr 🙏🏻 \nMitnehmen:\nMatte zum Liegen\nDecke evt Kissen\nwenn du magst; wichtiger Gegenstand für Dich den Du in die Mitte legen darfst \nBitte um Anmeldung unter 076 367 33 23\nPlatzzahl beschränkt.\nKollekte
+URL:https://langhuus.ch/blog/event/shaya-white-circle-7-6/
+LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
+CATEGORIES:Gesellschaft/Gemeinschaft,Musik,Workshop
+ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2024/05/mother_drum.png
+ORGANIZER;CN="Shaya White":MAILTO:info@shayawhite.ch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20260515T190000
+DTEND;TZID=Europe/Zurich:20260515T230000
+DTSTAMP:20260510T202827
+CREATED:20260423T081445Z
+LAST-MODIFIED:20260423T081445Z
+UID:10002155-1778871600-1778886000@langhuus.ch
+SUMMARY:Friitig Bar
+DESCRIPTION:
+URL:https://langhuus.ch/blog/event/friitig-bar-3-15/
+LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
+CATEGORIES:Barbetrieb,Gesellschaft/Gemeinschaft
+ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2023/04/noun-beer-1821205-FF59B9.png
+ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20260515T200000
+DTEND;TZID=Europe/Zurich:20260515T213000
+DTSTAMP:20260510T202827
+CREATED:20260128T190607Z
+LAST-MODIFIED:20260129T131814Z
+UID:10004968-1778875200-1778880600@langhuus.ch
+SUMMARY:De chly Prinz
+DESCRIPTION:DE CHLY PRINZ SPRICHT SCHWEIZERDEUTSCH \nKürzlich ist in Zug ein ganz besonderer literarischer Stern aufgegangen: «Le petit prince»\, Antoine de Saint-Exupérys weltberühmtes Werk\, wurde auf Zugerdialekt übersetzt. \nDie Zuger Schriftstellerin und Bühnenkünstlerin Judith Stadlin hat dem bekannten Klassiker von Antoine de Saint-Exupéry eine neue Stimme verliehen – eine\, die direkt ins Herz der Region trifft. Sie heisst DE CHLY PRINZ. \nDiese Geschichte fasziniert und sein Inhalt ist mit den archetypischen Figuren nach wie vor sehr aktuell. Die rundum poetische Geschichte berührt Kinder und Erwachsene mit ihrer ihrer anschaulichen Poesie und ihrer starken Symbolkraft.\nAlle verstehen sie\, alle können dabei ihre eigenen\, vielfältigen Interpretationen spielen lassen. \nJetzt ist die bekannte Autorin und Schauspielerin mit ihrer zugerdeutschen Bühnenlesung DE CHLY PRINZ unterwegs. \nDE CHLY PRINZ ist eine Hybrid-Veranstaltung für Kinder\, Jugendliche und Erwachsene.\nBei ihrer Bühnenlesung unterstützt Stadlin das Geschehen mit feinen Requisiten\, die die Geschichte noch anschaulicher zum Tragen bringen. \n19.00 Bar\n20.00 Aufführung\nKollekte
+URL:https://langhuus.ch/blog/event/de-chly-prinz/
+LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
+CATEGORIES:Kunst,Lesungen
+ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2026/01/de_chly_prinz_2026.png
+ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20260518T093000
+DTEND;TZID=Europe/Zurich:20260518T120000
+DTSTAMP:20260510T202827
+CREATED:20260306T144742Z
+LAST-MODIFIED:20260422T132453Z
+UID:10005009-1779096600-1779105600@langhuus.ch
+SUMMARY:Mama Lounge
+DESCRIPTION:Treffpunkt für Mamas mit ihren Kindern. Ein Ort\, an dem Begegnung\, Austausch und neue Energie entstehen dürfen.\n\nDas Motto dazu lautet:\n\nConnect\, Share\, Recharge
+URL:https://langhuus.ch/blog/event/mama-lounge/2026-05-18/
+LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
+CATEGORIES:Gesellschaft/Gemeinschaft
+ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2026/03/mama_lounge_banner.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20260518T140000
+DTEND;TZID=Europe/Zurich:20260518T170000
+DTSTAMP:20260510T202827
+CREATED:20250811T184359Z
+LAST-MODIFIED:20260327T162537Z
+UID:10004755-1779112800-1779123600@langhuus.ch
+SUMMARY:zämeCHOM – Ping-Pong
+DESCRIPTION:
+URL:https://langhuus.ch/blog/event/zaemechom-ping-pong-3/2026-05-18/
+LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
+CATEGORIES:Bewegung,Fitness
+ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2022/10/noun-pingpong-2411195-FF59B9.png
+ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20260519T093000
+DTEND;TZID=Europe/Zurich:20260519T103000
+DTSTAMP:20260510T202827
+CREATED:20250612T132717Z
+LAST-MODIFIED:20250612T132717Z
+UID:10004279-1779183000-1779186600@langhuus.ch
+SUMMARY:Bewegung mit Kelly
+DESCRIPTION:GET FIT THE FUN WAY \nDU BIST MAMA UIND BEWEGST DICH GERNE? \nDANN BIST DU HIER GENAU RICHTIG! \nWAS DICH ERWARTET: \n\nGanzkörper-Workout für jedes Fitnesslevel\nMit oder ohne Kind – beides ist möglich\nAustausch & Motivation unter Mamas\nKein Leistungsdruck\, nur Spass an Bewegung
+URL:https://langhuus.ch/blog/event/bewegung-mit-kelly-2/2026-05-19/
+LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
+CATEGORIES:Workshop
+ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2025/03/noun-yoga-7639493-FF59B9.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20260519T180000
+DTEND;TZID=Europe/Zurich:20260519T220000
+DTSTAMP:20260510T202827
+CREATED:20260421T135028Z
+LAST-MODIFIED:20260421T135028Z
+UID:10005157-1779213600-1779228000@langhuus.ch
+SUMMARY:*** GV ALG
+DESCRIPTION:
+URL:https://langhuus.ch/blog/event/gv-alg-2/
+LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
+CATEGORIES:privat
+ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20260520T160000
+DTEND;TZID=Europe/Zurich:20260520T180000
+DTSTAMP:20260510T202827
+CREATED:20260401T155711Z
+LAST-MODIFIED:20260401T155711Z
+UID:10005143-1779292800-1779300000@langhuus.ch
+SUMMARY:K'Werk Atelier
+DESCRIPTION:Entfalte deine Kreativität\nMagst du malen? Hast du Lust\, deine Ideen in Bilder umzuwandeln und neue Techniken zu lernen? Dann ist das Kunstatelier Cham genau richtig für dich! Hier lernst du verschiedene Techniken kennen und experimentierst mit Materialien wie Tusche\, Kohle und Acrylfarbe. Wir untersuchen unsere Umgebung genau und und skizzieren sie direkt vor den Objekten. Wir lernen\, wie man räumliche Tiefe und Perspektiven malt. Wir lernen\, wie man Formen und Rundungen malt. Wir lernen\, wie man Farben und Licht benutzt. Mit professioneller Hilfe findest du deinen eigenen Stil. Entdecke neue kreative Möglichkeiten und lass deiner Fantasie freien Lauf! \nAlter: 6-9 Jhar\nZeit: Mittwoch\, 16-18 Uhr\nKursdauer: 6.Mia-10.Juni 2026\, 6 x 2 Std.\nKosten: CHF 190.- Inkl. Material (Zuschlag 30% für ausserkantonale Kursteilnehmende\nLeitung: Luz Maria Molinari\, Künstlerin und Interior Designerin\nWerkschau: Samstag\, 20 Juni 2026 \nJetzt anmelden
+URL:https://langhuus.ch/blog/event/kwerk-atelier-2/2026-05-20/
+LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
+CATEGORIES:Gestalten,Kinder,Kunst,Kurs,Workshop
+ATTACH;FMTTYPE=image/jpeg:https://langhuus.ch/blog/wp-content/uploads/2026/04/kwerk_atelier.jpeg
+ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20260521T090000
+DTEND;TZID=Europe/Zurich:20260521T100000
+DTSTAMP:20260510T202827
+CREATED:20260113T105244Z
+LAST-MODIFIED:20260203T135557Z
+UID:10004955-1779354000-1779357600@langhuus.ch
+SUMMARY:Gitarrenkurs Stufe 2
+DESCRIPTION:Wir erweitern unsere Kenntnisse über Akkorde zum Begleiten von Liedern und zum Singen\nWir erweitern die Begleittechniken mit der rechten Hand\nWir erweitern die Techniken für kleine Improvisationen\n\nVorkenntnisse: mindestens die Grundakkorde der ersten Lage kennen\, (mindestens 7 Akkorden)  und ein Lied spielen können. \nKosten: CHF 350.- \nLeitung Violeta Ramos \nInformationen und Anmeldungeninfo@violetaramos.chwww.violetaramos.ch
+URL:https://langhuus.ch/blog/event/gitarrenkurs/2026-05-21/
+LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
+CATEGORIES:Kurs,Musik
+ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2022/07/noun-guitar-4972404-FF59BA.png
+ORGANIZER;CN="Violeta Ramos":MAILTO:info@violetaramos.ch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20260521T190000
+DTEND;TZID=Europe/Zurich:20260521T220000
+DTSTAMP:20260510T202827
+CREATED:20260103T134832Z
+LAST-MODIFIED:20260103T134832Z
+UID:10004866-1779390000-1779400800@langhuus.ch
+SUMMARY:Musik Kreis
+DESCRIPTION:Heute möchte ich Ihnen die Praxis vorstellen\, den Rhythmus zu spüren. Man nennt es einen Musikkreis\, etwas Ähnliches\, das unsere Vorfahren vor vielen Jahren taten\, als sie anfingen\, Musikinstrumente zu lernen. Wir haben viele Musikinstrumente\, bei denen es nur darauf ankommt\, den Rhythmus zu spüren. Die Regel dieser Runde ist einfach: Sie müssen sich gegenseitig hören\, um eine Resonanz im Klang zu erzeugen. Wir werden auch versuchen\, unsere Stimme als rhythmische Klangquelle zu nutzen und beim Singen Resonanz zu erzeugen. \nEnnio – Künstler\, Musiker\, Performer.\nInstagram: @‌dobryinamir
+URL:https://langhuus.ch/blog/event/musik-kreis-6/2026-05-21/
+LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
+CATEGORIES:Konzert/Live-Musik,Musik,Workshop
+ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2024/01/noun-gong-4847093-FF59B9.png
+ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20260522T190000
+DTEND;TZID=Europe/Zurich:20260522T230000
+DTSTAMP:20260510T202827
+CREATED:20260423T081527Z
+LAST-MODIFIED:20260423T081528Z
+UID:10002156-1779476400-1779490800@langhuus.ch
+SUMMARY:Friitig Bar
+DESCRIPTION:
+URL:https://langhuus.ch/blog/event/friitig-bar-3-16/
+LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
+CATEGORIES:Barbetrieb,Gesellschaft/Gemeinschaft
+ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2023/04/noun-beer-1821205-FF59B9.png
+ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20260522T193000
+DTEND;TZID=Europe/Zurich:20260522T230000
+DTSTAMP:20260510T202827
+CREATED:20260224T165529Z
+LAST-MODIFIED:20260305T104211Z
+UID:10004989-1779478200-1779490800@langhuus.ch
+SUMMARY:BAGASCH . PRIMER DIMER . Doppelkonzert
+DESCRIPTION:Bar 19.00\nKonzert 19.30\nKollekte \nBAGASCH \nDie Kleinformation Bagasch hat viel Musik im Gepäck undliefert sie frei Haus. Aber auch auf der Gasse wird schonmal ausgepackt und aufgespielt. Die musikalische Reiseführt von Jazz über Bossa bis Zaz und weiter zu allerleiunerhört noch nicht Gehörtem. \nWerner Jans – SaxStefan Rosenberg- PosauneChristine Meier – Akkordeon\,Gregor Frei – BassMark Zurfluh – Schlagzeug \nhttps://www.bagasch.org/ \nPRIMER DIMER \nPrimer Dimer covern und adaptieren handverlesene Songs aus dem Pop- und Rockkanon: von 80er Synth-Klassiker à la The Cure\, Bronski Beat oder Madonna bis zu 90er Hits von RHCP\, No Doubt und Radiohead. Die fünfköpfige Formation entfacht Partylaune und garantiert eine ordentliche Prise Nostalgie. \nStefanie Herzberg – GesangPatrick Baumann – GitarreThomas Krusche – Gitarre/GesangBruno Bütler – SchalgzeugMiles Peyer – Bass \nhttps://primerdimer.ch/
+URL:https://langhuus.ch/blog/event/bagasch-primer-dimer-doppelkonzert/
+LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
+CATEGORIES:Konzert/Live-Musik
+ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2026/02/lh_bagasch_primer_dimer_2026_k.png
+ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260525
+DTSTAMP:20260510T202827
+CREATED:20260421T134458Z
+LAST-MODIFIED:20260421T134458Z
+UID:10005154-1779494400-1779667199@langhuus.ch
+SUMMARY:*** Pfingsten Andrea
+DESCRIPTION:
+URL:https://langhuus.ch/blog/event/pfingsten-andrea/
+LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
+CATEGORIES:privat
+ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20260526T093000
+DTEND;TZID=Europe/Zurich:20260526T103000
+DTSTAMP:20260510T202827
+CREATED:20250612T132717Z
+LAST-MODIFIED:20250612T132717Z
+UID:10004280-1779787800-1779791400@langhuus.ch
+SUMMARY:Bewegung mit Kelly
+DESCRIPTION:GET FIT THE FUN WAY \nDU BIST MAMA UIND BEWEGST DICH GERNE? \nDANN BIST DU HIER GENAU RICHTIG! \nWAS DICH ERWARTET: \n\nGanzkörper-Workout für jedes Fitnesslevel\nMit oder ohne Kind – beides ist möglich\nAustausch & Motivation unter Mamas\nKein Leistungsdruck\, nur Spass an Bewegung
+URL:https://langhuus.ch/blog/event/bewegung-mit-kelly-2/2026-05-26/
+LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
+CATEGORIES:Workshop
+ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2025/03/noun-yoga-7639493-FF59B9.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20260527T160000
+DTEND;TZID=Europe/Zurich:20260527T180000
+DTSTAMP:20260510T202827
+CREATED:20260401T155711Z
+LAST-MODIFIED:20260401T155711Z
+UID:10005144-1779897600-1779904800@langhuus.ch
+SUMMARY:K'Werk Atelier
+DESCRIPTION:Entfalte deine Kreativität\nMagst du malen? Hast du Lust\, deine Ideen in Bilder umzuwandeln und neue Techniken zu lernen? Dann ist das Kunstatelier Cham genau richtig für dich! Hier lernst du verschiedene Techniken kennen und experimentierst mit Materialien wie Tusche\, Kohle und Acrylfarbe. Wir untersuchen unsere Umgebung genau und und skizzieren sie direkt vor den Objekten. Wir lernen\, wie man räumliche Tiefe und Perspektiven malt. Wir lernen\, wie man Formen und Rundungen malt. Wir lernen\, wie man Farben und Licht benutzt. Mit professioneller Hilfe findest du deinen eigenen Stil. Entdecke neue kreative Möglichkeiten und lass deiner Fantasie freien Lauf! \nAlter: 6-9 Jhar\nZeit: Mittwoch\, 16-18 Uhr\nKursdauer: 6.Mia-10.Juni 2026\, 6 x 2 Std.\nKosten: CHF 190.- Inkl. Material (Zuschlag 30% für ausserkantonale Kursteilnehmende\nLeitung: Luz Maria Molinari\, Künstlerin und Interior Designerin\nWerkschau: Samstag\, 20 Juni 2026 \nJetzt anmelden
+URL:https://langhuus.ch/blog/event/kwerk-atelier-2/2026-05-27/
+LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
+CATEGORIES:Gestalten,Kinder,Kunst,Kurs,Workshop
+ATTACH;FMTTYPE=image/jpeg:https://langhuus.ch/blog/wp-content/uploads/2026/04/kwerk_atelier.jpeg
+ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20260527T190000
+DTEND;TZID=Europe/Zurich:20260527T210000
+DTSTAMP:20260510T202827
+CREATED:20251127T173604Z
+LAST-MODIFIED:20251127T173604Z
+UID:10004814-1779908400-1779915600@langhuus.ch
+SUMMARY:SHAYA WHITE CIRCLE
+DESCRIPTION:Erlebe einen Abend voller Magie und Einkehr im Mother Drum Circle. \nMit einer sanften Räucherung beginnt der schöne Abend.\nTauche ein in die Welt der heilenden Klänge\, finde innere Ruhe.\nGemeinsam spielen wir auf der Mother Drum und verbinden uns mit der Urkraft der Klang-Schwingungen. \nDen Schluss runden wir mit einem sanften und berauschenden Klangbad ab. \nSpüre den Unterschied danach in deinem Innern. \nTreffe tolle Menschen und mache neue Erfahrungen 🦋🍀 \nvon 1900-2100 Uhr im\nLanghuus Kulturfabrik\nFabrikstrasse 9 in Cham bei Zug \nSEIN UM ZU WERDEN \nShaya White\nhttps://shayawhite.ch \nIch freue mich auf Dich \nWir beginnen um 1900 Uhr 🙏🏻 \nMitnehmen:\nMatte zum Liegen\nDecke evt Kissen\nwenn du magst; wichtiger Gegenstand für Dich den Du in die Mitte legen darfst \nBitte um Anmeldung unter 076 367 33 23\nPlatzzahl beschränkt.\nKollekte
+URL:https://langhuus.ch/blog/event/shaya-white-circle-8/2026-05-27/
+LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
+CATEGORIES:Gesellschaft/Gemeinschaft,Musik,Workshop
+ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2024/05/mother_drum.png
+ORGANIZER;CN="Shaya White":MAILTO:info@shayawhite.ch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20260527T190000
+DTEND;TZID=Europe/Zurich:20260527T210000
+DTSTAMP:20260510T202827
+CREATED:20260421T134640Z
+LAST-MODIFIED:20260421T134641Z
+UID:10001811-1779908400-1779915600@langhuus.ch
+SUMMARY:PingPong
+DESCRIPTION:Jeden 2. und 4. Mittwoch im Monat flitzt der weisse Ball über den PingPong Tisch. Sei dabei.
+URL:https://langhuus.ch/blog/event/pinpong-2-10/
+LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
+CATEGORIES:Spiele,Sport
+ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2022/10/noun-pingpong-2411195-FF59B9.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20260528T080000
+DTEND;TZID=Europe/Zurich:20260528T180000
+DTSTAMP:20260510T202827
+CREATED:20260421T135213Z
+LAST-MODIFIED:20260421T135230Z
+UID:10005158-1779955200-1779991200@langhuus.ch
+SUMMARY:*** ZVB
+DESCRIPTION:
+URL:https://langhuus.ch/blog/event/zvb/
+LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
+CATEGORIES:privat
+ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20260528T193000
+DTEND;TZID=Europe/Zurich:20260528T213000
+DTSTAMP:20260510T202827
+CREATED:20251009T132629Z
+LAST-MODIFIED:20260117T135554Z
+UID:10004697-1779996600-1780003800@langhuus.ch
+SUMMARY:Herzenslieder & Mantras
+DESCRIPTION:Singen berührt\, heilt\, nährt und verbindet! \nLass dich von eingängigen Herzenslieder\, Mantren und der Stille dazwischen berühren und tauche\nmit uns ins gemeinsame Singen im Langhuus ein. \nIn einer offenen\, herzlichen und achtsamen Atmosphäre verbinden wir Stimmen\, Jahreskreisthemen und Kulturen zu einem herzöffnenden Klangraum\, nähren den Frieden in und über uns hinaus und vertiefen unsere Verbundenheit mit Allem. Ganz ohne Vorkenntnisse – Du bist willkommen \nWeitere Infos: \nJasmina Meier & Gunnar Hartmann\ninfo@herzensgesang.ch\nherzensgesang.ch \n\n\nKollekte
+URL:https://langhuus.ch/blog/event/herzenslieder-und-mantras-singen-2026/2026-05-28/
+LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
+CATEGORIES:Chor,Gesang,Workshop
+ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2025/10/noun-swirly-heart-2762542-FF59B9.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20260529T190000
+DTEND;TZID=Europe/Zurich:20260529T230000
+DTSTAMP:20260510T202827
+CREATED:20260423T081820Z
+LAST-MODIFIED:20260423T081821Z
+UID:10002157-1780081200-1780095600@langhuus.ch
+SUMMARY:Friitig Bar
+DESCRIPTION:
+URL:https://langhuus.ch/blog/event/friitig-bar-3-17/
+LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
+CATEGORIES:Barbetrieb,Gesellschaft/Gemeinschaft
+ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2023/04/noun-beer-1821205-FF59B9.png
+ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20260530T090000
+DTEND;TZID=Europe/Zurich:20260530T230000
+DTSTAMP:20260510T202827
+CREATED:20260421T134846Z
+LAST-MODIFIED:20260421T134846Z
+UID:10005156-1780131600-1780182000@langhuus.ch
+SUMMARY:*** SEISHIN
+DESCRIPTION:
+URL:https://langhuus.ch/blog/event/seishin/
+LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
+CATEGORIES:privat
+ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20260601T140000
+DTEND;TZID=Europe/Zurich:20260601T170000
+DTSTAMP:20260510T202827
+CREATED:20250811T184359Z
+LAST-MODIFIED:20260327T162537Z
+UID:10004756-1780322400-1780333200@langhuus.ch
+SUMMARY:zämeCHOM – Ping-Pong
+DESCRIPTION:
+URL:https://langhuus.ch/blog/event/zaemechom-ping-pong-3/2026-06-01/
+LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
+CATEGORIES:Bewegung,Fitness
+ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2022/10/noun-pingpong-2411195-FF59B9.png
+ORGANIZER;CN="Verein Langhuus Kulturfabrik":MAILTO:info@langhuus.ch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20260602T093000
+DTEND;TZID=Europe/Zurich:20260602T103000
+DTSTAMP:20260510T202827
+CREATED:20250612T132717Z
+LAST-MODIFIED:20250612T132717Z
+UID:10004281-1780392600-1780396200@langhuus.ch
+SUMMARY:Bewegung mit Kelly
+DESCRIPTION:GET FIT THE FUN WAY \nDU BIST MAMA UIND BEWEGST DICH GERNE? \nDANN BIST DU HIER GENAU RICHTIG! \nWAS DICH ERWARTET: \n\nGanzkörper-Workout für jedes Fitnesslevel\nMit oder ohne Kind – beides ist möglich\nAustausch & Motivation unter Mamas\nKein Leistungsdruck\, nur Spass an Bewegung
+URL:https://langhuus.ch/blog/event/bewegung-mit-kelly-2/2026-06-02/
+LOCATION:Langhuus Kulturfabrik Cham\, Fabrikstrasse 9\, Cham\, 6330\, Schweiz
+CATEGORIES:Workshop
+ATTACH;FMTTYPE=image/png:https://langhuus.ch/blog/wp-content/uploads/2025/03/noun-yoga-7639493-FF59B9.png
 END:VEVENT
 END:VCALENDAR
